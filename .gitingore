@@ -75,5 +75,4 @@ DerivedDataCache/*
 *.log
 *.ini
 
-
-TrainGame/Content/__ExternalObjects__/*
+Content/__ExternalObjects__/*
