@@ -712,3 +712,5 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.29-10.47.15:770][458]LogDirectoryWatcher: Display: A directory notification failed for 'D:/GitHub/TrainGame/TrainGame/Content/Developers/Andy/Collections/' because it could not be accessed. Aborting watch request...
 [2022.08.29-10.48.01:295][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
 [2022.08.29-10.48.08:852][657]LogDerivedDataCache: C:/Users/Andy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.936 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.29-10.48.53:149][351]LogViewport: Scene viewport resized to 1086x902, mode Windowed.
+[2022.08.29-10.48.59:600][956]LogViewport: Scene viewport resized to 1086x504, mode Windowed.
