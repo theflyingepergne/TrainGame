@@ -83,3 +83,4 @@ DerivedDataCache/*
 *.log
 
 Saved/Logs/*
+*.blend1
