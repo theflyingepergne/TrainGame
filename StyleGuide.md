@@ -513,7 +513,7 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | Sound Attenuation       | ATT_       |            |                                  |
 | Sound Class             |            |            | No prefix/suffix. Should be put in a folder called SoundClasses |
 | Sound Concurrency       |            | _SC        | Should be named after a SoundClass |
-| Sound Cue               | A_         | _Cue       |                                  |
+| Sound Cue               | ACue_      |            |                                  |
 | Sound Mix               | Mix_       |            |                                  |
 | Sound Wave              | A_         |            |                                  |
 
